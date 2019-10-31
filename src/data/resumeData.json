@@ -1,0 +1,53 @@
+{
+  "main": {
+    "name":"Michael Goodrum",
+    "occupation":"Software Engineer",
+    "description": "\"The happiness of the bee and the dolphin is to exist. For man it is to know that and to wonder at it.\" -Jacques Yves Cousteau",
+    "image":"headshot.jpg",
+    "bio":"Hi there 👋 welcome to my site. As you have probably noticed my name is Michael Goodrum. I have been a Software developer for Vlipsy since 2017. I went to school at the Georgia Institute of Technology where I studied Computer Science and graduated in 2018. I grew up in Londrina, PR in southern Brazil and moved to Atlanta to pursue my education and career in CS. Although I'm passionate about engineering and problem solving I'm also a lover of skateboarding, cycling, music and all types of artistic mediums. This site will be a place where you can find my most updated projects as well as my resume and ways to contact me.",
+    "contactmessage":"Feel free to shoot me an email anytime! I love colaborating and getting to know new people.",
+    "email": "michaeldgoodrum@gmail.com",
+    "phone": "404-246-7381",
+    "address":{
+      "street":"2403 Dawn Drive",
+      "city":"Decatur",
+      "state":"GA",
+      "zip": "30032"
+    },
+    "website": "http://mdgoodrum.github.io",
+    "resumedownload":"http://mdgoodrum.github.io/resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/michael-goodrum/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mdgoodrum",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:michaeldgoodrum@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bolt Camera",
+        "category":"Create custom video stickers with Bolt!",
+        "image":"bolt-homescreen.png",
+        "url":"https://boltcamera.com/"
+      },
+      {
+        "title":"Vlipsy",
+        "category":"Share your favorite moments with Vlipsy!",
+        "image":"vlipsy-homescreen.png",
+        "url":"https://vlipsy.com/"
+      }
+    ]
+  }
+}
