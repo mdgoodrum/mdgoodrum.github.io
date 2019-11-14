@@ -3,7 +3,7 @@
     "name":"Michael Goodrum",
     "occupation":"Software Engineer",
     "description": "\"The happiness of the bee and the dolphin is to exist. For man it is to know that and to wonder at it.\" -Jacques Yves Cousteau",
-    "image":"headshot.JPG",
+    "image":"headshot.jpg",
     "bio":"Hi there 👋 welcome to my site. As you have probably noticed my name is Michael Goodrum. I have been a Software developer for Vlipsy since 2017. I went to school at the Georgia Institute of Technology where I studied Computer Science and graduated in 2018. I grew up in Londrina, PR in southern Brazil and moved to Atlanta to pursue my education and career in CS. Although I'm passionate about engineering and problem solving I'm also a lover of skateboarding, cycling, music and all types of artistic mediums. This site will be a place where you can find my most updated projects as well as my resume and ways to contact me.",
     "contactmessage":"Feel free to shoot me an email anytime! I love colaborating and getting to know new people.",
     "email": "michaeldgoodrum@gmail.com",
@@ -15,7 +15,6 @@
       "zip": "30032"
     },
     "website": "http://mdgoodrum.github.io",
-    "resumedownload":"http://mdgoodrum.github.io/resume.pdf",
     "social":[
       {
         "name":"linkedin",
